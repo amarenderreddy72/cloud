@@ -6,5 +6,9 @@ coffe
 boost
 milk
 
+luch
+breakfast
+dinner 
+
 
 welcome
